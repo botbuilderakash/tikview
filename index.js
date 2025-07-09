@@ -12,14 +12,11 @@ app.post('/send-view', async (req, res) => {
   if (!videoUrl) return res.status(400).json({ error: 'Video URL is required' });
 
   try {
-    // TikTok ভিডিও URL এ GET request পাঠাচ্ছি
     await axios.get(videoUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/115.0.0.0 Safari/537.36'
       }
-      // proxy দিলে এখান সেট করতে হবে
     });
-
     res.json({ message: 'View sent successfully' });
   } catch (error) {
     res.status(500).json({ error: 'Failed to send view' });
