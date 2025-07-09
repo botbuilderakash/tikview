@@ -10,11 +10,9 @@ function App() {
     setMessage('⏳ Sending views...');
 
     try {
-      const response = await fetch('https://tikview.onrender.com/send-view/send-view', {
+      const response = await fetch('https://tikview.onrender.com/send-view', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ videoUrl, viewCount })
       });
 
