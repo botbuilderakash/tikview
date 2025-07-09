@@ -7,6 +7,12 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// ✅ Root route - browser এ মেসেজ দেখাবে
+app.get('/', (req, res) => {
+  res.send('✅ TikTok Auto View API is running!');
+});
+
+// 🔁 Main API route
 app.post('/send-view', async (req, res) => {
   const { videoUrl } = req.body;
   if (!videoUrl) return res.status(400).json({ error: 'Video URL is required' });
@@ -23,7 +29,8 @@ app.post('/send-view', async (req, res) => {
   }
 });
 
+// ✅ Start server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+  console.log(`✅ Server running on port ${PORT}`);
 });
