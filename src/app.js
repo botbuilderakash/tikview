@@ -10,7 +10,7 @@ function App() {
     setMessage('⏳ Sending views...');
 
     try {
-      const response = await fetch('https://your-backend-url.onrender.com/send-view', {
+      const response = await fetch('https://tikview.onrender.com/send-view/send-view', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
