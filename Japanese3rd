@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Daily Japanese Words - Next 100 Words</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 10px;
+      background: #f9f9f9;
+    }
+    table {
+      border-collapse: collapse;
+      width: 95%;
+      max-width: 700px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      border-bottom: 4px solid #3f51b5;
+      table-layout: fixed;
+      word-wrap: break-word;
+    }
+    thead {
+      background: #3f51b5;
+      color: white;
+    }
+    th, td {
+      padding: 8px 6px;
+      border: 1px solid #ddd;
+      text-align: center;
+      font-size: 14px;
+      overflow-wrap: break-word;
+    }
+    tbody tr:nth-child(even) {
+      background: #f2f2f2;
+    }
+    tbody tr:hover {
+      background: #d1e7ff;
+    }
+  </style>
+</head>
+<body>
+  <h2 style="text-align:center; margin-bottom:15px;">Next 100 Daily Use Japanese Words</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Japanese</th>
+        <th>Romaji</th>
+        <th>বাংলা অর্থ</th>
+        <th>English Meaning</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>水</td><td>Mizu</td><td>পানি</td><td>Water</td></tr>
+      <tr><td>火</td><td>Hi</td><td>আগুন</td><td>Fire</td></tr>
+      <tr><td>土</td><td>Tsuchi</td><td>মাটি</td><td>Earth / Soil</td></tr>
+      <tr><td>金</td><td>Kane</td><td>সোনা / ধন</td><td>Gold / Money</td></tr>
+      <tr><td>風邪</td><td>Kaze</td><td>সর্দি</td><td>Cold (illness)</td></tr>
+      <tr><td>病院</td><td>Byouin</td><td>হাসপাতাল</td><td>Hospital</td></tr>
+      <tr><td>先生</td><td>Sensei</td><td>শিক্ষক</td><td>Teacher</td></tr>
+      <tr><td>学生</td><td>Gakusei</td><td>ছাত্র</td><td>Student</td></tr>
+      <tr><td>友達</td><td>Tomodachi</td><td>বন্ধু</td><td>Friend</td></tr>
+      <tr><td>家</td><td>Ie</td><td>বাড়ি</td><td>House</td></tr>
+      <tr><td>車</td><td>Kuruma</td><td>গাড়ি</td><td>Car</td></tr>
+      <tr><td>自転車</td><td>Jitensha</td><td>সাইকেল</td><td>Bicycle</td></tr>
+      <tr><td>道</td><td>Michi</td><td>রাস্তা</td><td>Road</td></tr>
+      <tr><td>橋</td><td>Hashi</td><td>সেতু</td><td>Bridge</td></tr>
+      <tr><td>空港</td><td>Kūkō</td><td>বিমানবন্দর</td><td>Airport</td></tr>
+      <tr><td>駅</td><td>Eki</td><td>স্টেশন</td><td>Station</td></tr>
+      <tr><td>会社</td><td>Kaisha</td><td>কোম্পানি</td><td>Company</td></tr>
+      <tr><td>店</td><td>Mise</td><td>দোকান</td><td>Shop</td></tr>
+      <tr><td>郵便局</td><td>Yūbinkyoku</td><td>ডাকঘর</td><td>Post office</td></tr>
+      <tr><td>銀行</td><td>Ginkō</td><td>ব্যাংক</td><td>Bank</td></tr>
+      <tr><td>お金</td><td>Okane</td><td>টাকা</td><td>Money</td></tr>
+      <tr><td>電話</td><td>Denwa</td><td>টেলিফোন</td><td>Telephone</td></tr>
+      <tr><td>テレビ</td><td>Terebi</td><td>টেলিভিশন</td><td>Television</td></tr>
+      <tr><td>パソコン</td><td>Pasokon</td><td>কম্পিউটার</td><td>Personal computer</td></tr>
+      <tr><td>新聞</td><td>Shinbun</td><td>সংবাদপত্র</td><td>Newspaper</td></tr>
+      <tr><td>映画</td><td>Eiga</td><td>চলচ্চিত্র</td><td>Movie</td></tr>
+      <tr><td>音楽</td><td>Ongaku</td><td>সঙ্গীত</td><td>Music</td></tr>
+      <tr><td>写真</td><td>Shashin</td><td>ছবি</td><td>Photo</td></tr>
+      <tr><td>言葉</td><td>Kotoba</td><td>শব্দ</td><td>Word / Language</td></tr>
+      <tr><td>文章</td><td>Bunshō</td><td>লেখা</td><td>Sentence / Writing</td></tr>
+      <tr><td>本</td><td>Hon</td><td>বই</td><td>Book</td></tr>
+      <tr><td>机</td><td>Tsukue</td><td>টেবিল</td><td>Desk</td></tr>
+      <tr><td>椅子</td><td>Isu</td><td>চেয়ার</td><td>Chair</td></tr>
+      <tr><td>時計</td><td>Tokei</td><td>ঘড়ি</td><td>Clock / Watch</td></tr>
+      <tr><td>紙</td><td>Kami</td><td>কাগজ</td><td>Paper</td></tr>
+      <tr><td>ペン</td><td>Pen</td><td>কলম</td><td>Pen</td></tr>
+      <tr><td>鉛筆</td><td>Enpitsu</td><td>পেন্সিল</td><td>Pencil</td></tr>
+      <tr><td>ノート</td><td>Nōto</td><td>নোটবই</td><td>Notebook</td></tr>
+      <tr><td>かばん</td><td>Kaban</td><td>ব্যাগ</td><td>Bag</td></tr>
+      <tr><td>靴</td><td>Kutsu</td><td>জুতা</td><td>Shoes</td></tr>
+      <tr><td>服</td><td>Fuku</td><td>কাপড়</td><td>Clothes</td></tr>
+      <tr><td>帽子</td><td>Boushi</td><td>টুপি</td><td>Hat</td></tr>
+      <tr><td>時計</td><td>Tokei</td><td>ঘড়ি</td><td>Watch / Clock</td></tr>
+      <tr><td>雨</td><td>Ame</td><td>বৃষ্টি</td><td>Rain</td></tr>
+      <tr><td>雪</td><td>Yuki</td><td>তুষার</td><td>Snow</td></tr>
+      <tr><td>風</td><td>Kaze</td><td>বাতাস</td><td>Wind</td></tr>
+      <tr><td>花</td><td>Hana</td><td>ফুল</td><td>Flower</td></tr>
+      <tr><td>木</td><td>Ki</td><td>গাছ</td><td>Tree</td></tr>
+      <tr><td>草</td><td>Kusa</td><td>ঘাস</td><td>Grass</td></tr>
+      <tr><td>虫</td><td>Mushi</td><td>পোকা</td><td>Insect</td></tr>
+      <tr><td>魚</td><td>Sakana</td><td>মাছ</td><td>Fish</td></tr>
+      <tr><td>鳥</td><td>Tori</td><td>পাখি</td><td>Bird</td></tr>
+      <tr><td>犬</td><td>Inu</td><td>কুকুর</td><td>Dog</td></tr>
+      <tr><td>猫</td><td>Neko</td><td>বিড়াল</td><td>Cat</td></tr>
+      <tr><td>虫歯</td><td>Mushiba</td><td>দাঁতের ব্যথা</td><td>Toothache</td></tr>
+      <tr><td>海</td><td>Umi</td><td>সমুদ্র</td><td>Sea</td></tr>
+      <tr><td>川</td><td>Kawa</td><td>নদী</td><td>River</td></tr>
+      <tr><td>山</td><td>Yama</td><td>পর্বত</td><td>Mountain</td></tr>
+      <tr><td>森</td><td>Mori</td><td>বন</td><td>Forest</td></tr>
+      <tr><td>空</td><td>Sora</td><td>আকাশ</td><td>Sky</td></tr>
+      <tr><td>星</td><td>Hoshi</td><td>তারা</td><td>Star</td></tr>
+      <tr><td>月</td><td>Tsuki</td><td>চাঁদ</td><td>Moon</td></tr>
+      <tr><td>太陽</td><td>Taiyou</td><td>সূর্য</td><td>Sun</td></tr>
+      <tr><td>電気</td><td>Denki</td><td>বিদ্যুৎ</td><td>Electricity</td></tr>
+      <tr><td>火山</td><td>Kazan</td><td>জ্বালানী পর্বত</td><td>Volcano</td></tr>
+      <tr><td>雨傘</td><td>Amagasa</td><td>ছাতা</td><td>Umbrella</td></tr>
+      <tr><td>自動車</td><td>Jidousha</td><td>গাড়ি</td><td>Automobile</td></tr>
+      <tr><td>飛行機</td><td>Hikouki</td><td>বিমান</td><td>Airplane</td></tr>
+      <tr><td>電車</td><td>Densha</td><td>ট্রেন</td><td>Train</td></tr>
+      <tr><td>船</td><td>Fune</td><td>নৌকা</td><td>Boat</td></tr>
+      <tr><td>駅員</td><td>Ekiin</td><td>স্টেশন কর্মী</td><td>Station staff</td></tr>
+      <tr><td>警察官</td><td>Keisatsukan</td><td>পুলিশ অফিসার</td><td>Police officer</td></tr>
+      <tr><td>消防士</td><td>Shouboushi</td><td>অগ্নিনির্বাপক</td><td>Firefighter</td></tr>
+      <tr><td>医者</td><td>Isha</td><td>ডাক্তার</td><td>Doctor</td></tr>
+      <tr><td>看護師</td><td>Kangoshi</td><td>নার্স</td><td>Nurse</td></tr>
+      <tr><td>料理</td><td>Ryouri</td><td>রান্না</td><td>Cooking</td></tr>
+      <tr><td>食べ物</td><td>Tabemono</td><td>খাবার</td><td>Food</td></tr>
+      <tr><td>飲み物</td><td>Nomimono</td><td>পানীয়</td><td>Drink</td></tr>
+      <tr><td>果物</td><td>Kudamono</td><td>ফল</td><td>Fruit</td></tr>
+      <tr><td>野菜</td><td>Yasai</td><td>সবজি</td><td>Vegetable</td></tr>
+      <tr><td>肉</td><td>Niku</td><td>মাংস</td><td>Meat</td></tr>
+      <tr><td>魚</td><td>Sakana</td><td>মাছ</td><td>Fish</td></tr>
+      <tr><td>卵</td><td>Tamago</td><td>ডিম</td><td>Egg</td></tr>
+      <tr><td>塩</td><td>Shio</td><td>লবণ</td><td>Salt</td></tr>
+      <tr><td>砂糖</td><td>Sato</td><td>চিনি</td><td>Sugar</td></tr>
+      <tr><td>お茶</td><td>Ocha</td><td>চা</td><td>Tea</td></tr>
+      <tr><td>水</td><td>Mizu</td><td>পানি</td><td>Water</td></tr>
+    </tbody>
+  </table>
+</body>
+</html>
