@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Daily Japanese Words - 100 Words</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #f9f9f9;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      max-width: 1000px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      border-bottom: 4px solid #FF5722;
+    }
+    thead {
+      background: #4CAF50;
+      color: white;
+    }
+    th, td {
+      padding: 12px 10px;
+      border: 1px solid #ddd;
+      text-align: center;
+      font-size: 15px;
+    }
+    tbody tr:nth-child(even) {
+      background: #f2f2f2;
+    }
+    tbody tr:hover {
+      background: #d1e7dd;
+    }
+  </style>
+</head>
+<body>
+  <h2 style="text-align:center; margin-bottom:20px;">Daily Use Japanese Words with Romaji, Bangla & English Meaning (100 Words)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Japanese</th>
+        <th>Romaji</th>
+        <th>বাংলা অর্থ</th>
+        <th>English Meaning</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>ありがとう</td><td>Arigatou</td><td>ধন্যবাদ</td><td>Thank you</td></tr>
+      <tr><td>おはよう</td><td>Ohayou</td><td>শুভ সকাল</td><td>Good morning</td></tr>
+      <tr><td>こんばんは</td><td>Konbanwa</td><td>শুভ সন্ধ্যা</td><td>Good evening</td></tr>
+      <tr><td>さようなら</td><td>Sayounara</td><td>বিদায়</td><td>Goodbye</td></tr>
+      <tr><td>はい</td><td>Hai</td><td>হ্যাঁ</td><td>Yes</td></tr>
+      <tr><td>いいえ</td><td>Iie</td><td>না</td><td>No</td></tr>
+      <tr><td>すみません</td><td>Sumimasen</td><td>ক্ষমা করবেন</td><td>Excuse me / Sorry</td></tr>
+      <tr><td>お願いします</td><td>Onegaishimasu</td><td>অনুগ্রহ করে</td><td>Please</td></tr>
+      <tr><td>元気</td><td>Genki</td><td>সুস্থ / ভালো</td><td>Healthy / Energetic</td></tr>
+      <tr><td>好き</td><td>Suki</td><td>পছন্দ</td><td>Like / Love</td></tr>
+      <tr><td>嫌い</td><td>Kirai</td><td>অপছন্দ</td><td>Dislike / Hate</td></tr>
+      <tr><td>友達</td><td>Tomodachi</td><td>বন্ধু</td><td>Friend</td></tr>
+      <tr><td>家族</td><td>Kazoku</td><td>পরিবার</td><td>Family</td></tr>
+      <tr><td>学校</td><td>Gakkou</td><td>বিদ্যালয়</td><td>School</td></tr>
+      <tr><td>先生</td><td>Sensei</td><td>শিক্ষক</td><td>Teacher</td></tr>
+      <tr><td>勉強</td><td>Benkyou</td><td>অধ্যয়ন</td><td>Study</td></tr>
+      <tr><td>食べる</td><td>Taberu</td><td>খাওয়া</td><td>To eat</td></tr>
+      <tr><td>飲む</td><td>Nomu</td><td>খাওয়া (পানীয়)</td><td>To drink</td></tr>
+      <tr><td>行く</td><td>Iku</td><td>যাওয়া</td><td>To go</td></tr>
+      <tr><td>来る</td><td>Kuru</td><td>আসা</td><td>To come</td></tr>
+      <tr><td>見る</td><td>Miru</td><td>দেখা</td><td>To see / watch</td></tr>
+      <tr><td>聞く</td><td>Kiku</td><td>শোনা</td><td>To listen / ask</td></tr>
+      <tr><td>話す</td><td>Hanasu</td><td>কথা বলা</td><td>To speak / talk</td></tr>
+      <tr><td>書く</td><td>Kaku</td><td>লেখা</td><td>To write</td></tr>
+      <tr><td>読む</td><td>Yomu</td><td>পড়া</td><td>To read</td></tr>
+      <tr><td>買う</td><td>Kau</td><td>কেনা</td><td>To buy</td></tr>
+      <tr><td>売る</td><td>Uru</td><td>বিক্রি করা</td><td>To sell</td></tr>
+      <tr><td>車</td><td>Kuruma</td><td>গাড়ি</td><td>Car</td></tr>
+      <tr><td>電車</td><td>Densha</td><td>ট্রেন</td><td>Train</td></tr>
+      <tr><td>飛行機</td><td>Hikouki</td><td>বিমান</td><td>Airplane</td></tr>
+      <tr><td>雨</td><td>Ame</td><td>বৃষ্টি</td><td>Rain</td></tr>
+      <tr><td>雪</td><td>Yuki</td><td>তুষার</td><td>Snow</td></tr>
+      <tr><td>山</td><td>Yama</td><td>পর্বত</td><td>Mountain</td></tr>
+      <tr><td>川</td><td>Kawa</td><td>নদী</td><td>River</td></tr>
+      <tr><td>海</td><td>Umi</td><td>সমুদ্র</td><td>Sea</td></tr>
+      <tr><td>空</td><td>Sora</td><td>আকাশ</td><td>Sky</td></tr>
+      <tr><td>犬</td><td>Inu</td><td>কুকুর</td><td>Dog</td></tr>
+      <tr><td>猫</td><td>Neko</td><td>বিড়াল</td><td>Cat</td></tr>
+      <tr><td>鳥</td><td>Tori</td><td>পাখি</td><td>Bird</td></tr>
+      <tr><td>魚</td><td>Sakana</td><td>মাছ</td><td>Fish</td></tr>
+      <tr><td>時間</td><td>Jikan</td><td>সময়</td><td>Time</td></tr>
+      <tr><td>今日</td><td>Kyou</td><td>আজ</td><td>Today</td></tr>
+      <tr><td>明日</td><td>Ashita</td><td>আগামীকাল</td><td>Tomorrow</td></tr>
+      <tr><td>昨日</td><td>Kinou</td><td>গতকাল</td><td>Yesterday</td></tr>
+      <tr><td>名前</td><td>Namae</td><td>নাম</td><td>Name</td></tr>
+      <tr><td>電話</td><td>Denwa</td><td>টেলিফোন</td><td>Telephone</td></tr>
+      <tr><td>仕事</td><td>Shigoto</td><td>কাজ</td><td>Work / Job</td></tr>
+      <tr><td>病院</td><td>Byouin</td><td>হাসপাতাল</td><td>Hospital</td></tr>
+      <tr><td>薬</td><td>Kusuri</td><td>ওষুধ</td><td>Medicine</td></tr>
+      <tr><td>映画</td><td>Eiga</td><td>চলচ্চিত্র</td><td>Movie</td></tr>
+      <tr><td>音楽</td><td>Ongaku</td><td>সঙ্গীত</td><td>Music</td></tr>
+      <tr><td>電話番号</td><td>Denwa bangou</td><td>ফোন নম্বর</td><td>Phone number</td></tr>
+      <tr><td>空港</td><td>Kuukou</td><td>বিমানবন্দর</td><td>Airport</td></tr>
+      <tr><td>病気</td><td>Byouki</td><td>রোগ</td><td>Illness</td></tr>
+      <tr><td>質問</td><td>Shitsumon</td><td>প্রশ্ন</td><td>Question</td></tr>
+      <tr><td>答え</td><td>Kotae</td><td>উত্তর</td><td>Answer</td></tr>
+      <tr><td>駅</td><td>Eki</td><td>স্টেশন</td><td>Station</td></tr>
+      <tr><td>店</td><td>Mise</td><td>দোকান</td><td>Shop</td></tr>
+      <tr><td>道</td><td>Michi</td><td>রাস্তা</td><td>Road / Way</td></tr>
+      <tr><td>住所</td><td>Jusho</td><td>ঠিকানা</td><td>Address</td></tr>
+      <tr><td>時間割</td><td>Jikanwari</td><td>সময়সূচি</td><td>Schedule</td></tr>
+      <tr><td>天気</td><td>Tenki</td><td>আবহাওয়া</td><td>Weather</td></tr>
+      <tr><td>料理</td><td>Ryouri</td><td>রান্না</td><td>Cooking</td></tr>
+      <tr><td>野菜</td><td>Yasai</td><td>শাকসবজি</td><td>Vegetable</td></tr>
+      <tr><td>果物</td><td>Kudamono</td><td>ফল</td><td>Fruit</td></tr>
+      <tr><td>朝ご飯</td><td>Asagohan</td><td>সকালের খাবার</td><td>Breakfast</td></tr>
+      <tr><td>昼ご飯</td><td>Hirugohan</td><td>দুপুরের খাবার</td><td>Lunch</td></tr>
+      <tr><td>晩ご飯</td><td>Bangohan</td><td>রাতের খাবার</td><td>Dinner</td></tr>
+      <tr><td>水</td><td>Mizu</td><td>পানি</td><td>Water</td></tr>
+      <tr><td>お茶</td><td>Ocha</td><td>চা</td><td>Tea</td></tr>
+      <tr><td>牛乳</td><td>Gyuunyuu</td><td>দুধ</td><td>Milk</td></tr>
+      <tr><td>砂糖</td><td>Satou</td><td>চিনি</td><td>Sugar</td></tr>
+      <tr><td>塩</td><td>Shio</td><td>লবণ</td><td>Salt</td></tr>
+      <tr><td>味</td><td>Aji</td><td>স্বাদ</td><td>Taste</td></tr>
+    </tbody>
+  </table>
+</body>
+</html>
